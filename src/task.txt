@@ -1,9 +1,12 @@
 You should do the following:
-- Learn more about React yourself. 
-- Find out how to create new components.
-- Find out how to export and import components.
-- Find out what the difference between a named export and a default export is.
+- Try to make a counter that increments by 1 when you push a button using a let as a variable
+- This will fail
+- Try to find out why it does not work.
+- Read about useState hook.
 
 Challenge: 
-- Create three components in three different files that you will use in App.jsx.
-- The component files should be made in the components folder.
+- Make a counter that increments by 1 when you push a button using the useState hook instead of a let variable
+- Make a counter that decrement by 1 when you push a button using the useState hook instead of a let variable
+
+
+
