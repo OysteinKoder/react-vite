@@ -1,8 +1,13 @@
-# React + Vite
+# How to use this repo to learn react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Each lesson will have its own branch, so branch "lesson-1" will be the first lesson, the branch "lesson-2" will be the second one.
 
-Currently, two official plugins are available:
+- I recommend you do these in order, but hey. Im not from the code police
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- In each lesson there is a task.txt file in the src folder, read this and do what it says.
+
+- if you spot a ReadMe then read it! Its mandatory , it contains valuable information and explains conventions you should follow.
+
+- Good luck! Happy learning
+
+- Please give this repo a star.
