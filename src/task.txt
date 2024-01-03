@@ -1,0 +1,9 @@
+You should do the following:
+- Learn more about React yourself. 
+- Find out how to create new components.
+- Find out how to export and import components.
+- Find out what the difference between a named export and a default export is.
+
+Challenge: 
+- Create three components in three different files that you will use in App.jsx.
+- The component files should be made in the components folder.

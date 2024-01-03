@@ -1,0 +1,1 @@
+This is where you put your images and other files that you want to be accessible to the public.
