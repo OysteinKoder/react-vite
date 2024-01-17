@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=UUga4-z7b6s&t=179s
 - Learn about react router dom (newest version)
 - read documentation or watch youtube
 
+- use the browserRouter docs
+https://reactrouter.com/en/main/router-components/browser-router
+
 Task:
 
 - Create a new page in the pages folder called "About", it should contain som text and a link to the home page.
